@@ -1,4 +1,4 @@
-Workflow for Developing the E-commerce Website:
+# Workflow for Developing the E-commerce Website:
 - Define project goals and scope
 - Create a sitemap and wireframes
 - Set up Laravel environment
